@@ -1,6 +1,7 @@
 # Smart-Trash
 
 Research Paper: [SmartTrash AI-Enabled Waste Detection](https://github.com/Mjzeolla/Smart-Trash/blob/main/SmartTrash_%20AI-Enabled%20Waste%20Detection.pdf)
+
 For code access please get in touch with me at mjzeolla4@gmail.com.
 
 Waste management has been a growing issue for many years, with each country employing different
